@@ -1,7 +1,7 @@
 name: simple_speech_recognition
 description: A basic Speech Recognition for Android.
 version: 0.0.1
-homepage:
+homepage: https://github.com/guilhermetog/simple_speech_recognition.git
 
 environment:
   sdk: '>=2.16.2 <3.0.0'
